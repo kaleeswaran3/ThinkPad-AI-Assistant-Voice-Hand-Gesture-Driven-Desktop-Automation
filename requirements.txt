@@ -1,0 +1,8 @@
+SpeechRecognition
+pyttsx3
+requests
+pyautogui
+pyaudio   # if this fails on Windows install via pipwin: pip install pipwin; pipwin install pyaudio
+mediapipe
+opencv-python
+numpy
